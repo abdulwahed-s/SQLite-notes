@@ -1,16 +1,29 @@
-# database
+# Flutter&sql Notes App
 
-A new Flutter project.
+A Flutter application developed with Flutter and SQLite. This app allows you to take notes and manage them efficiently with various features.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **To-Do List:** Mark notes as to-do items to keep track of tasks.
+- **Alarm:** Set reminders for your notes to get notified whenever you need to remember something.
+- **Add Images:** Enhance your notes by adding images.
+- **Customization:** Customize the color of your notes and background to suit your preference.
 
-A few resources to get you started if this is your first Flutter project:
+## Focus
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app primarily focuses on utilizing the SQLite database for storing and managing notes rather than additional features.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<div align="center">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot1.png?raw=true">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot2.png?raw=true">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot3.png?raw=true">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot4.png?raw=true">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot5.png?raw=true">
+<img width = "33%" src="https://github.com/abdulwahed-s/SQLite-notes/blob/main/Screenshot6.png?raw=true">
+</div>
+
+## Download
+
+You can download and try the app [here](https://raw.githubusercontent.com/abdulwahed-s/SQLite-notes/main/aNote.apk).
