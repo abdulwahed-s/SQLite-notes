@@ -27,3 +27,10 @@ This app primarily focuses on utilizing the SQLite database for storing and mana
 ## Download
 
 You can download and try the app [here](https://raw.githubusercontent.com/abdulwahed-s/SQLite-notes/main/aNote.apk).
+
+## License
+
+This project is distributed under the MIT License.  
+Feel free to use, share, and adapt the code as per the terms of the license.  
+
+For full details, refer to the [LICENSE](./LICENSE) file in the repository.
